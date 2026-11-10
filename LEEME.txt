@@ -1,0 +1,29 @@
+IKOON PUBLICIDAD — SITIO EDITABLE HTML / CSS / JAVASCRIPT
+
+1. Descomprime la carpeta y abre index.html con tu navegador.
+2. Edita site.js para cambiar textos principales, servicios, proyectos, categorías,
+   correo, WhatsApp y enlaces de redes. Mantén la sintaxis y las comillas.
+3. Edita index.html para cambiar títulos de secciones, etiquetas de botones,
+   campos del formulario y metadatos de búsqueda.
+4. Edita styles.css para cambiar colores, tamaños, distribución y animaciones.
+   Busca :root para los colores institucionales.
+5. script.js contiene las interacciones: menú, filtros, ventana de proyectos,
+   animaciones al desplazarse y la solicitud de cotización por WhatsApp.
+6. Guarda tus nuevas imágenes/videos en assets/ y referencia su ruta en site.js:
+   { title: "Mi proyecto", category: "Branding", image: "assets/mi-proyecto.jpg",
+     desc: "Descripción del trabajo" }
+   Para video, agrega video: "assets/mi-video.mp4".
+7. Para publicar, sube index.html, styles.css, site.js, script.js y assets/ juntos.
+   No requiere React, herramientas de compilación ni instalación de paquetes.
+
+PENDIENTES REALES DEL PROPIETARIO:
+- WhatsApp está vacío. Escribe el número con país, sin + ni espacios (57...).
+  Sin número, WhatsApp permite elegir a quién enviar, no contacta a Ikoon.
+- Los enlaces de redes son ejemplos generales: reemplázalos por tus perfiles.
+- Los proyectos mostrados son ejemplos, no trabajos reales acreditados.
+- Las cifras de experiencia, proyectos y marcas son ejemplos: confirma o edita.
+- Confirma que el correo de ejemplo sea correcto antes de publicar.
+
+La tipografía Montserrat se carga desde Google Fonts y requiere internet.
+Los logos y las imágenes están incluidos localmente en assets/.
+Los mensajes se preparan; el visitante debe enviarlos desde WhatsApp.
